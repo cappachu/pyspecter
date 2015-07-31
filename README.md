@@ -5,4 +5,4 @@ A port of Nathan Marz's specter project (https://github.com/nathanmarz/specter) 
 Assists with querying and updating nested data strucutures.
 
 # todo
-- use persistent data structures
+- use immutable data structures
